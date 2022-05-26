@@ -1,5 +1,5 @@
 # Nanopi R1S R2S R2C R4S Openwrt 固件
-
+This is straight from a fork, but an attempt to "de-china" it. I think the repo I forked is awesome, but I have no need for some of these plugins. I have found a problem with openwrt plugins where they are very poorly documented in english and I have no idea how to correctly configure it, so it's gone. This should be cleaner than the repo above and I'll be making it slimmer in time. I want it to be 'vanilla plus some good plugins'. The repo I forked from is so well made it's shocking, very good work klever1988!
 [刷机工具](https://www.balena.io/etcher/)  
 [下载地址](#下载地址)  
 [更新说明](#更新说明)  
