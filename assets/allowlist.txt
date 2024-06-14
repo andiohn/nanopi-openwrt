@@ -1,0 +1,4 @@
+cdn.jsdelivr.net
+facebook-hardware.com
+graph.facebook.com
+graph.oculus.com
