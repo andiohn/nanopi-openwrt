@@ -2,3 +2,7 @@ cdn.jsdelivr.net
 facebook-hardware.com
 graph.facebook.com
 graph.oculus.com
+gpm.samsungqbe.com
+api-tv.spotify.com
+samsungrm.net
+acr0.samsungcloudsolution.com
